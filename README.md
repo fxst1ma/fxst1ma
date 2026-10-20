@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Faatima 👋
+
+🎓 Computer Science student at Brunel University London
+
+💻 Interested in software development, problem-solving and artificial intelligence.
+
+Technical Skills
+
+Languages: Python, Java
 
 <!--
 **fxst1ma/fxst1ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
